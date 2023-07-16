@@ -16,6 +16,12 @@
 // let final = (price % tax);
 // console.log(final);
 
+// This exercise is multiply 3 times to variable 1
+// let price2 = 25;
+// let tax = 3;
+// let final = (price2 ** tax);
+// console.log(final);
+
 // This exercise is apply template literals in console
 // let nm1 = "John";
 // let message = 'would you like to learn some "Python" today?'

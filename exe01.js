@@ -13,11 +13,17 @@
 // let tax = 7;
 // let final = (price % tax);
 // console.log(final);
+// This exercise is multiply 3 times to variable 1
+// let price2 = 25;
+// let tax = 3;
+// let final = (price2 ** tax);
+// console.log(final);
 // This exercise is apply template literals in console
-// let nm1 = "John";
-// let message = 'would you like to learn some "Python" today?'
-// console.log(`Hello ${nm1},\n${message}`);
-var firstName = "Assad";
-var lastName = "Siddiqui";
-var fullName = (firstName + " " + lastName);
-console.log(fullName);
+var nm1 = "John";
+var message = 'would you like to learn some "Python" today?';
+console.log("Hello ".concat(nm1, ",\n").concat(message));
+// This exercise is apply concatenate between two variables to join them
+// let firstName = "Assad";
+// let lastName = "Siddiqui";
+// let fullName = (firstName + " " + lastName);
+// console.log(fullName);
